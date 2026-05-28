@@ -13,4 +13,4 @@ A responsive Amazon homepage clone built using HTML and CSS.
 - CSS3
 
 ## Author
-Your Name
+Ayanansh Pandey
